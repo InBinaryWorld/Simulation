@@ -1,5 +1,5 @@
-# Simulator
-Simulator is an application that creates a board with colored squares and assigns a thread to each of them that changes the color of the field.
+# Simulation
+Simulation is an application that creates a board with colored squares and assigns a thread to each of them that changes the color of the field.
 
 #### Applied technologies:
 - Maven
@@ -13,9 +13,9 @@ Each of  thread refreshes the color assigned to it randomly every (0.5 - 1.5) * 
 - Set the size of the board
 - Test multiple probability and period settings
 
-    ![ScreenShot](https://raw.githubusercontent.com/InBinaryWorld/Simulator/master/SS/SS1.png)
+    ![ScreenShot](https://raw.githubusercontent.com/InBinaryWorld/Simulation/master/SS/SS1.png)
 
-    ![ScreenShot](https://raw.githubusercontent.com/InBinaryWorld/Simulator/master/SS/SS2.png)
+    ![ScreenShot](https://raw.githubusercontent.com/InBinaryWorld/Simulation/master/SS/SS2.png)
     
   
 ## License
